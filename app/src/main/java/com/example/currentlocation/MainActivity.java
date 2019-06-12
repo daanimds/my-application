@@ -20,6 +20,7 @@ import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.android.gms.tasks.Task;
+//  this is branch1 
 
 public class MainActivity extends FragmentActivity implements OnMapReadyCallback {
     Location currentLocation;
